@@ -18,14 +18,6 @@ Welcome to my GitHub profile! I'm Sinan 👨‍💻, a passionate developer who 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/SinjinDesigns)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/your-profile)
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sinjiin&show_icons=true&theme=radical)
--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinjiin&layout=compact&theme=radical)
--
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sinjiin&theme=radical)
-
 ## 🏆 Achievements
 
 - 🥇 [First App]
